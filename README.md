@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋 ###
+  My Name is Bassel
+  And i love computer science
 
 <!--
 **Bassel-H/Bassel-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
